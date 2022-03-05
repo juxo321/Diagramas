@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-05T00:03:09.123Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="6E46pIIxn6yLLIExGA7R" version="16.6.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-03-05T00:11:45.338Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="cgZXfYKtNhGoriTs_uTy" version="16.6.6" type="github" pages="3">
   <diagram id="ZOLbbtU10H_L-ZyvFbHr" name="Casos de uso">
     <mxGraphModel dx="2066" dy="1202" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -237,10 +237,15 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vUdV8dTm9AIyjUiobpo-" name="Diagramas de robustez">
-    <mxGraphModel dx="1773" dy="1077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2066" dy="1202" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ohF-YZngQOExFJtdv-FO-16" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.344;exitY=0.16;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ohF-YZngQOExFJtdv-FO-14" target="ohF-YZngQOExFJtdv-FO-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1210" y="1350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <UserObject label="CU-03 Generar campañas" lucidchartObjectId="etU_sflz~3_a" id="nKD2yURBM5Mw6vJep_JN-52">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=22.7;fontFamily=Liberation Serif;fontColor=default;align=center;spacing=0;fillColor=#ffffff;strokeWidth=1.5;strokeColor=none;" parent="1" vertex="1">
             <mxGeometry x="10" y="1380" width="334" height="68" as="geometry" />
@@ -438,179 +443,75 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <UserObject label="" lucidchartObjectId="etU_K8eGplzo" id="rUgf6ehKT__8V1n5KTFx-3">
-          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#5E5E5E;strokeWidth=1.5;rounded=0;startArrow=none;endArrow=none;entryX=0.054;entryY=0.747;entryPerimeter=0;" edge="1" parent="1" source="rUgf6ehKT__8V1n5KTFx-10">
-            <mxGeometry width="100" height="100" relative="1" as="geometry">
-              <Array as="points" />
-              <mxPoint x="1229" y="1549.5" as="sourcePoint" />
-              <mxPoint x="1088.4260000000004" y="1436.4289999999999" as="targetPoint" />
-            </mxGeometry>
-          </mxCell>
-        </UserObject>
-        <mxCell id="rUgf6ehKT__8V1n5KTFx-4" value="Verificación correcta" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rUgf6ehKT__8V1n5KTFx-3">
-          <mxGeometry x="-0.184" y="3" relative="1" as="geometry">
-            <mxPoint y="-1" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <UserObject label="" lucidchartObjectId="etU_i2E.w23y" id="rUgf6ehKT__8V1n5KTFx-5">
-          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#5E5E5E;strokeWidth=1.5;rounded=0;startArrow=none;endArrow=none;exitX=1.013;exitY=0.54;exitPerimeter=0;entryX=-0.014;entryY=0.543;entryPerimeter=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rUgf6ehKT__8V1n5KTFx-19" target="rUgf6ehKT__8V1n5KTFx-7">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#5E5E5E;strokeWidth=1.5;rounded=0;startArrow=none;endArrow=none;exitX=1.013;exitY=0.54;exitPerimeter=0;entryX=-0.044;entryY=0.52;entryPerimeter=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rUgf6ehKT__8V1n5KTFx-19" target="ohF-YZngQOExFJtdv-FO-5">
             <mxGeometry width="100" height="100" relative="1" as="geometry">
               <Array as="points" />
               <mxPoint x="501.8000000000002" y="1563.9199999999998" as="sourcePoint" />
-              <mxPoint x="813.8600000000001" y="1564.5" as="targetPoint" />
+              <mxPoint x="599.02" y="1563.44" as="targetPoint" />
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <mxCell id="rUgf6ehKT__8V1n5KTFx-6" value="" style="shape=umlBoundary;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1490" y="1390" width="100" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="rUgf6ehKT__8V1n5KTFx-7" value="Introducir usuario y contraseña" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="1520" width="70" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="rUgf6ehKT__8V1n5KTFx-8" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="rUgf6ehKT__8V1n5KTFx-7" target="rUgf6ehKT__8V1n5KTFx-10">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="910" y="1660" as="sourcePoint" />
-            <mxPoint x="1110.0000000000136" y="1555.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="rUgf6ehKT__8V1n5KTFx-9" value="Dar click en iniciar sesión" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rUgf6ehKT__8V1n5KTFx-8">
-          <mxGeometry x="-0.1044" y="1" relative="1" as="geometry">
+        <mxCell id="ohF-YZngQOExFJtdv-FO-6" value="Click en botón &quot;generar campaña&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rUgf6ehKT__8V1n5KTFx-5">
+          <mxGeometry x="-0.2381" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="rUgf6ehKT__8V1n5KTFx-10" value="Validar datos" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="860" y="1520" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rUgf6ehKT__8V1n5KTFx-11" value="Pantalla de inicio" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="344" y="1610" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rUgf6ehKT__8V1n5KTFx-12" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="rUgf6ehKT__8V1n5KTFx-10" target="rUgf6ehKT__8V1n5KTFx-13">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="860" y="1590" as="sourcePoint" />
-            <mxPoint x="895" y="1430" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="rUgf6ehKT__8V1n5KTFx-13" value="Usuarios" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="855" y="1330" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="rUgf6ehKT__8V1n5KTFx-14" value="Crear sesión" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="1390" width="70" height="80" as="geometry" />
-        </mxCell>
-        <UserObject label="" lucidchartObjectId="etU_K8eGplzo" id="rUgf6ehKT__8V1n5KTFx-15">
-          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#5E5E5E;strokeWidth=1.5;rounded=0;startArrow=none;endArrow=none;entryX=-0.042;entryY=0.554;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="rUgf6ehKT__8V1n5KTFx-16">
-            <mxGeometry width="100" height="100" relative="1" as="geometry">
-              <Array as="points" />
-              <mxPoint x="1150" y="1430" as="sourcePoint" />
-              <mxPoint x="1300" y="1420" as="targetPoint" />
-            </mxGeometry>
-          </mxCell>
-        </UserObject>
-        <mxCell id="rUgf6ehKT__8V1n5KTFx-16" value="Redirigir a la pantalla principal" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1300" y="1385" width="70" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="rUgf6ehKT__8V1n5KTFx-17" value="Pantalla princial de la aplicción DonaEasy" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1480" y="1490" width="100" height="30" as="geometry" />
-        </mxCell>
-        <UserObject label="" lucidchartObjectId="etU_K8eGplzo" id="rUgf6ehKT__8V1n5KTFx-18">
-          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#5E5E5E;strokeWidth=1.5;rounded=0;startArrow=none;endArrow=none;entryX=1.006;entryY=0.611;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.012;exitY=0.525;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="rUgf6ehKT__8V1n5KTFx-6" target="rUgf6ehKT__8V1n5KTFx-16">
-            <mxGeometry width="100" height="100" relative="1" as="geometry">
-              <Array as="points" />
-              <mxPoint x="1160" y="1440" as="sourcePoint" />
-              <mxPoint x="1307.06" y="1439.3200000000002" as="targetPoint" />
-            </mxGeometry>
-          </mxCell>
-        </UserObject>
         <mxCell id="rUgf6ehKT__8V1n5KTFx-19" value="" style="shape=umlBoundary;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="1520" width="100" height="80" as="geometry" />
         </mxCell>
-        <UserObject label="" lucidchartObjectId="etU_K8eGplzo" id="rUgf6ehKT__8V1n5KTFx-20">
-          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#5E5E5E;strokeWidth=1.5;rounded=0;startArrow=none;endArrow=none;exitX=0.951;exitY=0.836;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.006;entryY=0.506;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rUgf6ehKT__8V1n5KTFx-10" target="rUgf6ehKT__8V1n5KTFx-22">
-            <mxGeometry width="100" height="100" relative="1" as="geometry">
-              <Array as="points" />
-              <mxPoint x="935.5714399279209" y="1550.524860490361" as="sourcePoint" />
-              <mxPoint x="1060" y="1770" as="targetPoint" />
-            </mxGeometry>
-          </mxCell>
-        </UserObject>
-        <mxCell id="rUgf6ehKT__8V1n5KTFx-21" value="usuario inexistente" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rUgf6ehKT__8V1n5KTFx-20">
-          <mxGeometry x="-0.3513" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="rUgf6ehKT__8V1n5KTFx-22" value="" style="shape=umlBoundary;whiteSpace=wrap;html=1;fillColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="1180" y="1600" width="100" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="rUgf6ehKT__8V1n5KTFx-23" value="Mensaje de usuario no registrado" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1190" y="1695" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="rUgf6ehKT__8V1n5KTFx-24" value="Redirigir a la pantalla de registro" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;fillColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="1454.5" y="1600" width="95.5" height="100" as="geometry" />
-        </mxCell>
-        <UserObject label="" lucidchartObjectId="etU_i2E.w23y" id="rUgf6ehKT__8V1n5KTFx-25">
-          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#5E5E5E;strokeWidth=1.5;rounded=0;startArrow=none;endArrow=none;exitX=1.013;exitY=0.54;exitPerimeter=0;entryX=-0.014;entryY=0.543;entryPerimeter=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1">
-            <mxGeometry width="100" height="100" relative="1" as="geometry">
-              <Array as="points" />
-              <mxPoint x="1280" y="1639.9999999999998" as="sourcePoint" />
-              <mxPoint x="1457.7200000000003" y="1640.24" as="targetPoint" />
-            </mxGeometry>
-          </mxCell>
-        </UserObject>
-        <mxCell id="rUgf6ehKT__8V1n5KTFx-26" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.584;exitY=0.075;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="rUgf6ehKT__8V1n5KTFx-14">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1120" y="1384.9999999999998" as="sourcePoint" />
-            <mxPoint x="1120" y="1275" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="rUgf6ehKT__8V1n5KTFx-27" value="Redirigir a la pantalla de registro" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="1260" width="74" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="rUgf6ehKT__8V1n5KTFx-28" value="" style="endArrow=none;html=1;rounded=0;exitX=0.591;exitY=0.007;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.495;entryY=1.012;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rUgf6ehKT__8V1n5KTFx-19" target="rUgf6ehKT__8V1n5KTFx-27">
+        <mxCell id="rUgf6ehKT__8V1n5KTFx-28" value="" style="endArrow=none;html=1;rounded=0;exitX=0.591;exitY=0.007;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.495;entryY=1.012;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rUgf6ehKT__8V1n5KTFx-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="385.1699999999996" y="1485.5" as="sourcePoint" />
-            <mxPoint x="420" y="1320" as="targetPoint" />
+            <mxPoint x="376.6300000000001" y="1340.96" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <UserObject label="" lucidchartObjectId="etU_K8eGplzo" id="rUgf6ehKT__8V1n5KTFx-29">
-          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#5E5E5E;strokeWidth=1.5;rounded=0;startArrow=none;endArrow=none;entryX=0.55;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rUgf6ehKT__8V1n5KTFx-10" target="rUgf6ehKT__8V1n5KTFx-31">
-            <mxGeometry width="100" height="100" relative="1" as="geometry">
-              <Array as="points" />
-              <mxPoint x="936.5699999999997" y="1596.88" as="sourcePoint" />
-              <mxPoint x="1150" y="1610" as="targetPoint" />
-            </mxGeometry>
-          </mxCell>
-        </UserObject>
-        <mxCell id="rUgf6ehKT__8V1n5KTFx-30" value="Datos incorrectos" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rUgf6ehKT__8V1n5KTFx-29">
-          <mxGeometry x="-0.3513" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="rUgf6ehKT__8V1n5KTFx-31" value="" style="shape=umlBoundary;whiteSpace=wrap;html=1;fillColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="845" y="1750" width="100" height="80" as="geometry" />
-        </mxCell>
-        <UserObject label="" lucidchartObjectId="etU_i2E.w23y" id="rUgf6ehKT__8V1n5KTFx-32">
-          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#5E5E5E;strokeWidth=1.5;rounded=0;startArrow=none;endArrow=none;exitX=0.565;exitY=1.004;exitPerimeter=0;entryX=-0.014;entryY=0.543;entryPerimeter=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rUgf6ehKT__8V1n5KTFx-31">
-            <mxGeometry width="100" height="100" relative="1" as="geometry">
-              <Array as="points">
-                <mxPoint x="638" y="1830" />
-              </Array>
-              <mxPoint x="460.00000000000017" y="1598.8200000000002" as="sourcePoint" />
-              <mxPoint x="637.7200000000003" y="1599.06" as="targetPoint" />
-            </mxGeometry>
-          </mxCell>
-        </UserObject>
-        <mxCell id="rUgf6ehKT__8V1n5KTFx-33" value="Mensaje de usuario o contraseña incorrecto" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="855" y="1850" width="100" height="30" as="geometry" />
         </mxCell>
         <UserObject label="CU-01 Iniciar sesión" lucidchartObjectId="etU_sflz~3_a" id="ohF-YZngQOExFJtdv-FO-1">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=22.7;fontFamily=Liberation Serif;fontColor=default;align=center;spacing=0;fillColor=#ffffff;strokeWidth=1.5;strokeColor=none;" vertex="1" parent="1">
             <mxGeometry x="60" y="500" width="334" height="68" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="ohF-YZngQOExFJtdv-FO-2" value="Permisos/Rol" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="1200" width="80" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="ohF-YZngQOExFJtdv-FO-3" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;b id=&quot;docs-internal-guid-f1a09c1c-7fff-0e56-6c08-349383edc909&quot; style=&quot;font-style: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; text-decoration: none; color: rgb(0, 0, 0); font-weight: normal;&quot;&gt;&lt;div dir=&quot;ltr&quot; align=&quot;left&quot; style=&quot;margin-left: 0pt&quot;&gt;&lt;table style=&quot;border: none ; border-collapse: collapse&quot;&gt;&lt;colgroup&gt;&lt;col width=&quot;295&quot;&gt;&lt;col width=&quot;295&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height: 22.5pt&quot;&gt;&lt;td style=&quot;border: 0.75pt solid rgb(0 , 0 , 0) ; vertical-align: top ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.7999999999999998 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;times new roman&amp;quot;; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-style: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;ID:&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;border: 0.75pt solid rgb(0 , 0 , 0) ; vertical-align: top ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.7999999999999998 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;times new roman&amp;quot;; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;CU-03&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 22.5pt&quot;&gt;&lt;td style=&quot;border: 0.75pt solid rgb(0 , 0 , 0) ; vertical-align: top ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.7999999999999998 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;times new roman&amp;quot;; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-style: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;Nombre:&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;border: 0.75pt solid rgb(0 , 0 , 0) ; vertical-align: top ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.7999999999999998 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;times new roman&amp;quot;; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;Generar campaña.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 22.5pt&quot;&gt;&lt;td style=&quot;border: 0.75pt solid rgb(0 , 0 , 0) ; vertical-align: top ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.7999999999999998 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;times new roman&amp;quot;; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-style: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;Actor(es):&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;border: 0.75pt solid rgb(0 , 0 , 0) ; vertical-align: top ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.7999999999999998 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;times new roman&amp;quot;; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;Paciente.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 27.75pt&quot;&gt;&lt;td style=&quot;border: 0.75pt solid rgb(0 , 0 , 0) ; vertical-align: top ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.7999999999999998 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;times new roman&amp;quot;; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-style: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;Descripción:&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;border: 0.75pt solid rgb(0 , 0 , 0) ; vertical-align: top ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.7999999999999998 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;times new roman&amp;quot;; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;El paciente podrá generar campañas de donación.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 22.5pt&quot;&gt;&lt;td style=&quot;border: 0.75pt solid rgb(0 , 0 , 0) ; vertical-align: top ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.7999999999999998 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;times new roman&amp;quot;; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-style: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;Precondiciones:&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;border: 0.75pt solid rgb(0 , 0 , 0) ; vertical-align: top ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.7999999999999998 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;times new roman&amp;quot;; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;Estar registrado&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 69pt&quot;&gt;&lt;td style=&quot;border: 0.75pt solid rgb(0 , 0 , 0) ; vertical-align: top ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.7999999999999998 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;times new roman&amp;quot;; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-style: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;Flujo normal:&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;border: 0.75pt solid rgb(0 , 0 , 0) ; vertical-align: top ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.7999999999999998 ; margin-left: 18pt ; text-indent: -18pt ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;times new roman&amp;quot;; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;1. El paciente visualiza la pantalla de inicio.&lt;/span&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.7999999999999998 ; margin-left: 18pt ; text-indent: -18pt ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;times new roman&amp;quot;; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;2. Presiona el botón de generar campaña&lt;/span&gt;&lt;/p&gt;&lt;ol style=&quot;margin-top: 0px ; margin-bottom: 0px&quot;&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type: decimal; font-size: 11pt; font-family: &amp;quot;times new roman&amp;quot;; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.7999999999999998 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;times new roman&amp;quot;; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;Se dirige a un formulario en donde debe rellenar sus datos para su campaña.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type: decimal; font-size: 11pt; font-family: &amp;quot;times new roman&amp;quot;; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.7999999999999998 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;times new roman&amp;quot;; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;El paciente le da clic en publicar.&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type: decimal; font-size: 11pt; font-family: &amp;quot;times new roman&amp;quot;; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.7999999999999998 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;times new roman&amp;quot;; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;Lo redirige a la pantalla principal actualizada con su campaña agregada.&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 207.207275390625pt&quot;&gt;&lt;td style=&quot;border: 0.75pt solid rgb(0 , 0 , 0) ; vertical-align: top ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.7999999999999998 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;times new roman&amp;quot;; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-style: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;Flujo alterno:&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;/td&gt;&lt;td style=&quot;border: 0.75pt solid rgb(0 , 0 , 0) ; vertical-align: top ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.7999999999999998 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;times new roman&amp;quot;; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;FA-01: El usuario oprime cancelar durante el llenado del formulario.&lt;/span&gt;&lt;/p&gt;&lt;ol style=&quot;margin-top: 0px ; margin-bottom: 0px&quot;&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type: lower-alpha; font-size: 11pt; font-family: &amp;quot;times new roman&amp;quot;; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.7999999999999998 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;times new roman&amp;quot;; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;Aparece una advertencia en donde dice seguro que desea cancelar.&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type: lower-alpha; font-size: 11pt; font-family: &amp;quot;times new roman&amp;quot;; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.7999999999999998 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;times new roman&amp;quot;; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;Oprime cancelar y lo dirige a la pantalla principal. (FN-01)&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ol&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.7999999999999998 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;times new roman&amp;quot;; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;FA-02: Al usuario le faltó llenar un campo del formulario.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;ol style=&quot;margin-top: 0px ; margin-bottom: 0px&quot;&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type: lower-alpha; font-size: 11pt; font-family: &amp;quot;times new roman&amp;quot;; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.7999999999999998 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;times new roman&amp;quot;; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;El sistema muestra un mensaje “Rellene todos los campos”. (FN-03)&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 49.5pt&quot;&gt;&lt;td style=&quot;border: 0.75pt solid rgb(0 , 0 , 0) ; vertical-align: top ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.7999999999999998 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;times new roman&amp;quot;; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-style: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;Excepciones:&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;border: 0.75pt solid rgb(0 , 0 , 0) ; vertical-align: top ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.7999999999999998 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;times new roman&amp;quot;; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;EX-01:Error al generar campaña&lt;/span&gt;&lt;/p&gt;&lt;ol style=&quot;margin-top: 0px ; margin-bottom: 0px&quot;&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type: lower-alpha; font-size: 11pt; font-family: &amp;quot;times new roman&amp;quot;; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.7999999999999998 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 6.5pt; font-family: &amp;quot;times new roman&amp;quot;; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;times new roman&amp;quot;; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;El sistema muestra un mensaje “Error al generar campaña por la conexión a la base de datos”. (FN-01)&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 22.5pt&quot;&gt;&lt;td style=&quot;border: 0.75pt solid rgb(0 , 0 , 0) ; vertical-align: top ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.7999999999999998 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;times new roman&amp;quot;; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-style: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;Postcondiciones:&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;border: 0.75pt solid rgb(0 , 0 , 0) ; vertical-align: top ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.7999999999999998 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;times new roman&amp;quot;; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;Campaña generada exitosamente&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;&lt;br&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1654" y="1169" width="550" height="950" as="geometry" />
+          <mxGeometry x="1760" y="1230" width="550" height="950" as="geometry" />
+        </mxCell>
+        <mxCell id="ohF-YZngQOExFJtdv-FO-5" value="Generar campaña" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="1510" width="90" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ohF-YZngQOExFJtdv-FO-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ohF-YZngQOExFJtdv-FO-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1160" y="1560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ohF-YZngQOExFJtdv-FO-13" value="click publicar" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ohF-YZngQOExFJtdv-FO-12">
+          <mxGeometry x="-0.0759" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ohF-YZngQOExFJtdv-FO-7" value="" style="shape=umlBoundary;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="915" y="1520" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ohF-YZngQOExFJtdv-FO-8" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="ohF-YZngQOExFJtdv-FO-7" target="ohF-YZngQOExFJtdv-FO-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="812.4699999999999" y="1759.6" as="sourcePoint" />
+            <mxPoint x="810.0000000000001" y="1580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ohF-YZngQOExFJtdv-FO-10" value="visualizar&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ohF-YZngQOExFJtdv-FO-8">
+          <mxGeometry x="0.1111" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ohF-YZngQOExFJtdv-FO-9" value="Formulario para crear campaña" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="950" y="1610" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ohF-YZngQOExFJtdv-FO-14" value="Publicar campaña" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="1500" width="90" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ohF-YZngQOExFJtdv-FO-18" value="Campaña" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1151" y="1260" width="90" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
