@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-17T00:59:18.777Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="dTpvZoNgVqxAt5g0-KyX" version="16.6.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-03-17T02:38:58.636Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="3zK02JkbxidacyLTsazy" version="16.6.6" type="github" pages="3">
   <diagram id="ZOLbbtU10H_L-ZyvFbHr" name="Casos de uso">
     <mxGraphModel dx="1934" dy="1060" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -857,11 +857,11 @@
     </mxGraphModel>
   </diagram>
   <diagram id="w-ZgQI2hM4GvxBSjvLB5" name="Diagramas de secuencia">
-    <mxGraphModel dx="1843" dy="1202" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3133" dy="1202" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="4etoOoT4e8RAunVv8lNI-0" />
         <mxCell id="4etoOoT4e8RAunVv8lNI-1" parent="4etoOoT4e8RAunVv8lNI-0" />
-        <UserObject label="CU-01 Iniciar sesión" lucidchartObjectId="etU_sflz~3_a" id="U3f-Sr5wO2do-2v9L5q2-0">
+        <UserObject label="CU-02 Iniciar sesión" lucidchartObjectId="etU_sflz~3_a" id="U3f-Sr5wO2do-2v9L5q2-0">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=22.7;fontFamily=Liberation Serif;fontColor=default;align=center;spacing=0;fillColor=#ffffff;strokeWidth=1.5;strokeColor=none;" parent="4etoOoT4e8RAunVv8lNI-1" vertex="1">
             <mxGeometry x="247" y="20" width="334" height="68" as="geometry" />
           </mxCell>
@@ -972,7 +972,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eRiEvIqxRp_xaBAtmBD5-38" value="ingreso exitoso" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="4etoOoT4e8RAunVv8lNI-1" source="eRiEvIqxRp_xaBAtmBD5-22">
+        <mxCell id="eRiEvIqxRp_xaBAtmBD5-38" value="Conexión exitosa" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="4etoOoT4e8RAunVv8lNI-1" source="eRiEvIqxRp_xaBAtmBD5-22">
           <mxGeometry y="-20" relative="1" as="geometry">
             <mxPoint x="630" y="819" as="sourcePoint" />
             <mxPoint x="470" y="819" as="targetPoint" />
