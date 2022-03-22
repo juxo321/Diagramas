@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-22T03:27:09.132Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="qJx1uy_0C6qDgLh_u7Yl" version="17.1.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-03-22T03:41:58.849Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="Hbt6gS6qERQvwvvvZb47" version="17.1.3" type="github" pages="4">
   <diagram id="MvjLjFq-SvLZgaekkIAb" name="Diagrama de Dominio">
     <mxGraphModel dx="897" dy="1060" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1065,7 +1065,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="w-ZgQI2hM4GvxBSjvLB5" name="Diagramas de secuencia">
-    <mxGraphModel dx="2621" dy="2120" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2108" dy="1514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="4etoOoT4e8RAunVv8lNI-0" />
         <mxCell id="4etoOoT4e8RAunVv8lNI-1" parent="4etoOoT4e8RAunVv8lNI-0" />
@@ -1612,7 +1612,7 @@
             <mxGeometry x="1984" y="40" width="334" height="68" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="MivOM3LmqYwJYE-su_Zh-27" value="Paciente" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="4etoOoT4e8RAunVv8lNI-1">
+        <mxCell id="MivOM3LmqYwJYE-su_Zh-27" value="Paciente y Donador" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="4etoOoT4e8RAunVv8lNI-1">
           <mxGeometry x="1800" y="177.25" width="40" height="90" as="geometry" />
         </mxCell>
         <mxCell id="MivOM3LmqYwJYE-su_Zh-28" value="" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="4etoOoT4e8RAunVv8lNI-1">
@@ -1922,7 +1922,7 @@
           <mxGeometry x="20" y="120" width="720" height="980" as="geometry" />
         </mxCell>
         <mxCell id="AkW3Nca4Lje08XySC9Zn-28" value="Revisar campaña" style="shape=umlFrame;whiteSpace=wrap;html=1;fontSize=11;width=100;height=30;" vertex="1" parent="4etoOoT4e8RAunVv8lNI-1">
-          <mxGeometry x="1780" y="140" width="700" height="930" as="geometry" />
+          <mxGeometry x="1760" y="140" width="700" height="930" as="geometry" />
         </mxCell>
         <mxCell id="AkW3Nca4Lje08XySC9Zn-29" value="Eliminar datos de campañas" style="shape=umlFrame;whiteSpace=wrap;html=1;fontSize=11;width=131;height=30;" vertex="1" parent="4etoOoT4e8RAunVv8lNI-1">
           <mxGeometry x="2529" y="170" width="1081" height="930" as="geometry" />
