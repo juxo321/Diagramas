@@ -1,6 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2022-03-22T03:26:37.893Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="cNc-qXJWKDoEW1nc4uz8" version="17.1.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-03-22T03:27:09.132Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="qJx1uy_0C6qDgLh_u7Yl" version="17.1.3" type="github" pages="4">
+  <diagram id="MvjLjFq-SvLZgaekkIAb" name="Diagrama de Dominio">
+    <mxGraphModel dx="897" dy="1060" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="eNh3AXQYGFQofB-Z6k0P-0" />
+        <mxCell id="eNh3AXQYGFQofB-Z6k0P-1" parent="eNh3AXQYGFQofB-Z6k0P-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram id="ZOLbbtU10H_L-ZyvFbHr" name="Casos de uso">
-    <mxGraphModel dx="2306" dy="1202" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="897" dy="1060" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="gi2oZ-t0YFbnOxlSY5rE-0" />
         <mxCell id="gi2oZ-t0YFbnOxlSY5rE-1" parent="gi2oZ-t0YFbnOxlSY5rE-0" />
@@ -237,7 +245,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Diagramas de robustez" id="gr8VxzTWPR5DMYS5uFkw">
-    <mxGraphModel dx="2306" dy="1202" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="897" dy="1060" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
