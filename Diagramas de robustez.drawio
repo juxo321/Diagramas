@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-02T06:03:06.044Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" etag="MLJA4NIqx_pq8uvFzVzn" version="17.5.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-05-25T18:00:26.051Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.53" etag="dtkrC4IMO4j_IK_N_T27" version="18.0.6" type="github" pages="7">
   <diagram id="MvjLjFq-SvLZgaekkIAb" name="Diagrama de Dominio">
-    <mxGraphModel dx="1156" dy="1077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1278" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="eNh3AXQYGFQofB-Z6k0P-0" />
         <mxCell id="eNh3AXQYGFQofB-Z6k0P-1" parent="eNh3AXQYGFQofB-Z6k0P-0" />
@@ -118,7 +118,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZOLbbtU10H_L-ZyvFbHr" name="Casos de uso">
-    <mxGraphModel dx="1045" dy="1060" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1278" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="gi2oZ-t0YFbnOxlSY5rE-0" />
         <mxCell id="gi2oZ-t0YFbnOxlSY5rE-1" parent="gi2oZ-t0YFbnOxlSY5rE-0" />
@@ -147,7 +147,7 @@
             <mxGeometry x="759" y="1215" width="137" height="108" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="CU-14 Actualizar perfil" lucidchartObjectId="n3HVr6aC~s~Z" id="5dokcT2i0qJaEO16mp3v-5">
+        <UserObject label="CU-14 Actualizar estatus perfil" lucidchartObjectId="n3HVr6aC~s~Z" id="5dokcT2i0qJaEO16mp3v-5">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=13.3;fontColor=#ffffff;align=center;spacing=0;verticalAlign=middle;strokeColor=#ffffff;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=7.5;fillColor=#c92d39;strokeWidth=0.8;" parent="gi2oZ-t0YFbnOxlSY5rE-1" vertex="1">
             <mxGeometry x="752" y="1929" width="137" height="108" as="geometry" />
           </mxCell>
@@ -192,13 +192,6 @@
             <mxGeometry width="100" height="100" relative="1" as="geometry">
               <Array as="points" />
               <mxPoint x="241" y="1113" as="sourcePoint" />
-            </mxGeometry>
-          </mxCell>
-        </UserObject>
-        <UserObject label="" lucidchartObjectId="n3HVbxa5no1." id="5dokcT2i0qJaEO16mp3v-12">
-          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#333333;strokeOpacity=100;strokeWidth=0.8;rounded=0;startArrow=none;endArrow=none;exitX=1.003;exitY=0.5;exitPerimeter=0;entryX=0.495;entryY=0.5;entryPerimeter=0;" parent="gi2oZ-t0YFbnOxlSY5rE-1" source="5dokcT2i0qJaEO16mp3v-5" target="5dokcT2i0qJaEO16mp3v-34" edge="1">
-            <mxGeometry width="100" height="100" relative="1" as="geometry">
-              <Array as="points" />
             </mxGeometry>
           </mxCell>
         </UserObject>
